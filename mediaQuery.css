@@ -1,0 +1,22 @@
+@media screen and (max-width:419px) {
+
+  body{
+    font-size: 18px;
+  }
+
+  #lezioni .row > .left, #lezioni .row > .right{
+    float: none;
+    margin:auto;
+    width: 50%;
+  }
+  #steps .row > .left, #steps .row > .central, #steps .row > .right{
+      float: none;
+      margin: auto;
+    }
+    div.row{
+      width: 100%;
+    }
+    img{
+      height: 150px;
+    }
+}
